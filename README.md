@@ -25,7 +25,7 @@ python main.py --keyword <your_keyword> --location <location> --limit <number> -
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/lorisdemaio/jobfinder.git
+git clone https://github.com/lorisdemaio/JobFinder.git
 ```
 2. (Optional but recommended) Create and activate a virtual environment:
 ```bash
