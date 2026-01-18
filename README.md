@@ -1,5 +1,3 @@
-<br><br>
-
 # 📌 Introduction
 
 This Python script allows you to search for remote job offers on Remotive.com.  
